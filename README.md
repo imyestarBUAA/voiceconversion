@@ -1,6 +1,6 @@
 ## Welcome
 
-Here is some samples for <Learning Discrete Gaussian Latent Representations for Non-Parallel Voice Conversion>.
+Here is some samples for 'Learning Discrete Gaussian Latent Representations for Non-Parallel Voice Conversion'.
 
 ### Support or Contact
 
