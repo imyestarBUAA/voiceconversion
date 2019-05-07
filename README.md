@@ -1,40 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/imyestarBUAA/voiceconversion/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imyestarBUAA/voiceconversion/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Here is some samples for <>.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Two audios that are being transformed.
+
+[source_speech_A](source_speech_A.wav)
+[source_speech_B](source_speech_B.wav)
 
 
-[Link](4xA.wav)
+For the next four people, two men and two women, show their original voice and the sound converted from source_speech_A and source_speech_B.
+
+[target_01x](target_01x.wav)
+[1xA](1xA.wav)
+[1xB](1xB.wav)
+
+[target_02x](target_02x.wav)
+[2xA](2xA.wav)
+[2xB](2xB.wav)
+
+[target_03x](target_03x.wav)
+[3xA](3xA.wav)
+[3xB](3xB.wav)
+
+[target_04x](target_04x.wav)
+[4xA](4xA.wav)
+[4xB](4xB.wav)
